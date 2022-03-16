@@ -1,6 +1,6 @@
 # Third App on Donut Count to show Stateless and Stateful App
 
-A new Flutter project.
+A new Flutter project. This app is show how Stateful and Stateless Widgets work together forwarding the project to count the donuts.
 
 ## Getting Started
 
